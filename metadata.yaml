@@ -1,5 +1,8 @@
 _repo: The-Ashiel-mystery--A-Detective-Story_9746
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bryce, Charles, Mrs.
@@ -11,6 +14,8 @@ description: What starts as a new beginning for British diplomat Sir Arthur Byrn
   wife''s fatal illness, Byrne is prepared to accept responsibility for her adopted
   daughter Juliet. But a little digging into Juliet''s background and identity raises
   more questions than it answers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9746#The-Ashiel-mystery--A-Detective-Story
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
